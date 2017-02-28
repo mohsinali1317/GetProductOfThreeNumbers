@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetProductOfThreeNumbers", "GetProductOfThreeNumbers\GetProductOfThreeNumbers.csproj", "{73B1F250-3999-4F09-A1BA-2AFCC74A6AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTests", "MyTests\MyTests.csproj", "{AAADE694-F595-4D1A-851F-4FD6E649E53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B1F250-3999-4F09-A1BA-2AFCC74A6AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B1F250-3999-4F09-A1BA-2AFCC74A6AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B1F250-3999-4F09-A1BA-2AFCC74A6AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B1F250-3999-4F09-A1BA-2AFCC74A6AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAADE694-F595-4D1A-851F-4FD6E649E53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAADE694-F595-4D1A-851F-4FD6E649E53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAADE694-F595-4D1A-851F-4FD6E649E53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAADE694-F595-4D1A-851F-4FD6E649E53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

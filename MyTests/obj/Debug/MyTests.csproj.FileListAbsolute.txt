@@ -1,0 +1,8 @@
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\bin\Debug\MyTests.dll
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\bin\Debug\MyTests.pdb
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\bin\Debug\GetProductOfThreeNumbers.exe
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\bin\Debug\GetProductOfThreeNumbers.pdb
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\obj\Debug\MyTests.csprojResolveAssemblyReference.cache
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\obj\Debug\MyTests.dll
+E:\Personal Projects\GetProductOfThreeNumbers\GetProductOfThreeNumbers\MyTests\obj\Debug\MyTests.pdb
